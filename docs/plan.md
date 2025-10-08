@@ -14,6 +14,10 @@ Ngày kết thúc: Tue Oct 14 2025
 9. Dự phòng: Dành 2 buổi buổi tối để ôn lại các phần khó hoặc chuẩn bị cho bài kiểm tra.
 10. Đánh giá: Cuối tuần tự đánh giá tiến độ, ghi nhật ký học và điều chỉnh mục tiêu nếu cần.
 
+Additional Notes:
+- Chuẩn bị câu hỏi cho phần thảo luận.
+- Kiểm tra lại mặt bằng thời gian cho buổi trình bày.
+
 _Commit: Add weekly study plan_
 
 Notes:
