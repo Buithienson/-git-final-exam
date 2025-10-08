@@ -1,23 +1,22 @@
-<<<<<<< HEAD
-```plaintext
+ HEAD
+plaintext
 Hello, this is <Họ Tên>
-=======
+
 Giới thiệu cá nhân:
 Xin chào, tôi là <Họ Tên>
->>>>>>> feature-update
+ feature-update
 1. Tôi là Bùi Thiên Sơn, sinh viên ngành Công nghệ Thông tin.
 
 
 Sở thích:
 
 
-Kỹ năng:
-<<<<<<< HEAD
+Kỹ năngHEAD
 
 ```
 =======
->>>>>>> feature-update
-```plaintext
+ feature-update
+plaintext
 Hello, this is <Họ Tên>
 Giới thiệu cá nhân:
 Xin chào, tôi là <Họ Tên>
@@ -35,4 +34,3 @@ Kỹ năng:
 - JavaScript
 
 Conflict resolved on 08/10/2025
-```
