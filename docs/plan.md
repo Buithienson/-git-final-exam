@@ -13,3 +13,5 @@ Ngày kết thúc: Tue Oct 14 2025
 8. Chủ nhật: Nghỉ ngơi nhẹ, đọc sách kỹ thuật 1 giờ và lên kế hoạch chi tiết cho tuần tiếp theo.
 9. Dự phòng: Dành 2 buổi buổi tối để ôn lại các phần khó hoặc chuẩn bị cho bài kiểm tra.
 10. Đánh giá: Cuối tuần tự đánh giá tiến độ, ghi nhật ký học và điều chỉnh mục tiêu nếu cần.
+
+_Commit: Add weekly study plan_
