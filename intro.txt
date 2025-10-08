@@ -1,5 +1,26 @@
+<<<<<<< HEAD
 ```plaintext
 Hello, this is <Họ Tên>
+=======
+Giới thiệu cá nhân:
+Xin chào, tôi là <Họ Tên>
+>>>>>>> feature-update
+1. Tôi là Bùi Thiên Sơn, sinh viên ngành Công nghệ Thông tin.
+
+
+Sở thích:
+
+
+Kỹ năng:
+<<<<<<< HEAD
+
+```
+=======
+>>>>>>> feature-update
+```plaintext
+Hello, this is <Họ Tên>
+Giới thiệu cá nhân:
+Xin chào, tôi là <Họ Tên>
 1. Tôi là Bùi Thiên Sơn, sinh viên ngành Công nghệ Thông tin.
 
 
@@ -13,4 +34,5 @@ Kỹ năng:
 - Git
 - JavaScript
 
+Conflict resolved on 08/10/2025
 ```
