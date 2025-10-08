@@ -6,6 +6,5 @@
 
 ## Mục tiêu
 
-Mục tiêu bài kiểm tra là thực hành các thao tác cơ bản với Git: clone, tạo file, commit, push và kiểm tra lịch sử commit. Qua đó củng cố kỹ năng quản lý mã nguồn và làm việc với remote repository.
-
 Hoan thanh bai kiem tra
+
