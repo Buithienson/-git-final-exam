@@ -15,3 +15,7 @@ Ngày kết thúc: Tue Oct 14 2025
 10. Đánh giá: Cuối tuần tự đánh giá tiến độ, ghi nhật ký học và điều chỉnh mục tiêu nếu cần.
 
 _Commit: Add weekly study plan_
+
+Notes:
+- Thêm ghi chú về tài liệu tham khảo và link hữu ích.
+- Chuẩn bị slide tóm tắt cho buổi học.
