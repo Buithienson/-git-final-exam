@@ -1,0 +1,14 @@
+Giới thiệu cá nhân:
+Xin chào, tôi là <Họ Tên>
+1. Tôi là Bùi Thiên Sơn, sinh viên ngành Công nghệ Thông tin.
+
+
+Sở thích:
+
+- Đọc sách kỹ thuật
+- Chạy bộ
+
+Kỹ năng:
+- Python
+- Git
+- JavaScript
