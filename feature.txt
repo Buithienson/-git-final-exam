@@ -1,0 +1,6 @@
+﻿Feature A: Hệ thống luyện tập
+1. Mô tả: Công cụ CLI để tạo bài tập lập trình nhỏ.
+2. Lợi ích: Giúp luyện tập thuật toán và kiểm tra kiến thức.
+3. Hành vi: Nhận input, sinh bài tập, chấm tự động cơ bản.
+4. Phạm vi: Bắt đầu với bài tập xử lý chuỗi và mảng.
+5. Ghi chú: Tích hợp dễ dàng vào quy trình học cá nhân.
